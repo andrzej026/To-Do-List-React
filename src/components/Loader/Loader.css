@@ -1,0 +1,7 @@
+.text-warning {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-left: 50%;
+    /* background-color: #833ae0; */
+}

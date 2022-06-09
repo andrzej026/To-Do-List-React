@@ -1,0 +1,45 @@
+.task {
+    margin-bottom: 1rem;
+}
+
+.task div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task div input,
+.task i {
+    z-index: 2;
+}
+
+.list-group-item {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.bi-trash,
+.bi-check2,
+.bi-pencil {
+    cursor: pointer;
+}
+
+.completed .input-group-text {
+    opacity: 0.5;
+}
+
+.bi-trash:hover,
+.bi-pencil:hover,
+.bi-check2:hover {
+    color: #833ae0;
+}
+
+.icons,
+.checkandnumber {
+    width: 3.5%;
+}
+
+.edit {
+    width: 30%;
+    text-align: center;
+}

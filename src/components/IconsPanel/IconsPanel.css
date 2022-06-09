@@ -1,0 +1,14 @@
+.bi-sort-alpha-up-alt,
+.bi-sort-alpha-down,
+.bi-sort-numeric-up-alt,
+.bi-sort-numeric-down {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.bi-sort-alpha-up-alt:hover,
+.bi-sort-alpha-down:hover,
+.bi-sort-numeric-up-alt:hover,
+.bi-sort-numeric-down:hover {
+    color: #833ae0;
+}
